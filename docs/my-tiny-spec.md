@@ -1,5 +1,7 @@
 # My Language Specification
 
+This is a new line inserted at the top.
+
 Super cool language of the day.
 
 ## Version
