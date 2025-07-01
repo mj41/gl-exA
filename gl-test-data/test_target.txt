@@ -1,4 +1,3 @@
-Inserted Line A
 Inserted Line B
 Line 1
 Line 2
