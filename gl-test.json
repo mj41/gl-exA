@@ -1,5 +1,5 @@
 {
-  "description": "TC-010: Delete 1 line before target - link #L3 -> L4",
+  "description": "TC-011: Minor modification - line changed ~15%, heuristic recovers and tracks position",
   "expect": [
     {"file": "gl-test-data/test_link.md", "line": 1, "old": 3, "new": 4, "status": "updated"}
   ]
