@@ -1,5 +1,5 @@
 {
-  "description": "TC-012: Major modification - line too different, heuristic fails",
+  "description": "TC-013: Rename target file - link broken (old path doesn't exist)",
   "expect": [
     {"file": "gl-test-data/test_link.md", "line": 1, "old": 3, "new": 3, "status": "broken"}
   ]
