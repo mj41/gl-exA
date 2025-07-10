@@ -1,5 +1,5 @@
 {
-  "description": "TC-017: Manual link update resets origin - test_link.md#L1 now points to L2",
+  "description": "TC-018: Heuristic recovery - all links still valid after target modification",
   "expect": [
     {"file": "gl-test-data/nested/deep_link.md", "line": 5, "old": 4, "new": 4, "status": "unchanged"},
     {"file": "gl-test-data/test_link.md", "line": 1, "old": 2, "new": 2, "status": "unchanged"},
