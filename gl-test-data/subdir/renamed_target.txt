@@ -3,7 +3,6 @@ Line 1
 Line 2
 Completely rewritten content here
 Line 4 reconstructed version
-Line 5
 Appended Line X
 Appended Line Y
 Appended Line Z
