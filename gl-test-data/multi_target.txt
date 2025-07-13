@@ -2,6 +2,11 @@ Multi Line 01
 Multi Line 02
 Multi Line 03
 Multi Line 04
+Inserted A
+Inserted B
+Inserted C
+Inserted D
+Inserted E
 Multi Line 05
 Multi Line 06
 Multi Line 07
