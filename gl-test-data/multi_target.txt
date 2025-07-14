@@ -1,5 +1,3 @@
-Multi Line 01
-Multi Line 02
 Multi Line 03
 Multi Line 04
 Inserted A
